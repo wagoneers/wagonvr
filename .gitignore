@@ -3,35 +3,20 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/Assets/AssetStoreTools*
-/Assets/Plugins/*
 /Assets/Plugins.meta
-/Assets/Photon Unity Networking/*
 /Assets/Photon Unity Networking.meta
-/Assets/PhotonChatApi/*
 /Assets/PhotonChatApi.meta
-/Assets/PUNVoice/*
 /Assets/PUNVoice.meta
 /Assets/Scripts/MyJoinLeaveSounds.cs*
-/Assets/Libraries/Photon/*
 /Assets/Libraries/Photon.meta
-/Assets/SteamVR/*
 /Assets/SteamVR.meta
-/Assets/Libraries/SteamVR/*
 /Assets/Libraries/SteamVR.meta
-/Assets/VRTK/*
 /Assets/VRTK.meta
-/Assets/Libraries/VRTK/*
 /Assets/Libraries/VRTK.meta
-/Assets/Oculus/*
 /Assets/Oculus.meta
-/Assets/Resources/OvrAvatarSettings.asset
 /Assets/Resources/OvrAvatarSettings.asset.meta
-/Assets/Libraries/Oculus/*
 /Assets/Libraries/Oculus.meta
-/Assets/TextMesh Pro/*
 /Assets/TextMesh Pro.meta
-/Assets/Libraries/TextMesh Pro/*
 /Assets/Libraries/TextMesh Pro.meta
 
 # Don't store the Photon network settings, they contain private info
